@@ -42,7 +42,7 @@ currently_learning:
   - Python Basics
 
 career_goal: >
-  Start my career in AWS Cloud or DevOps,
+  Start my career in AWS Cloud and DevOps,
   work on real infrastructure projects,
   and learn from experienced engineers.
 
